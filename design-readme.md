@@ -2,7 +2,11 @@
 
 ## General
 
--   I built this with Next.js and TypeScript (I used the nextjs dashboard template for most of the boilerplate code). For styling I used Tailwind for efficiency and consistency.
+-   I built this with Next.js and TypeScript (I used the nextjs dashboard template for most of the boilerplate code).
+
+## CSS
+
+-   I used Tailwind for efficiency and consistency. The styling is not a 1:1 match with the mockups, I could've gotten it closer with custom css but prioritized the other features for the sake of time.
 
 ## DB
 
